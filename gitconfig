@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stephane.baroux@gmail.com
+	name = Stephane Baroux
